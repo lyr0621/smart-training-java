@@ -1,3 +1,0 @@
-在当前目录下(使用bash命令框)
-javac main.java
-java main
